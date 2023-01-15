@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Olá,%20eu%20sou%20Will.&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descAlign=62&)
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000&center=true&vCenter=true&width=500&lines=Front-end+Developer)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fff&center=true&vCenter=true&width=500&lines=Front-end+Developer)](https://git.io/typing-svg) -->
+
+<div align="center"><br>
+  <img width="200px" height="200px" src="./img/readme-char.png/"/>
+</div>
 
 <div align="center">
-  <img width="200px" height="200px" src="./img/readme-char.png/"/>
-
   <a href="https://github.com/renovatt">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renovatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
