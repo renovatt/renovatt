@@ -56,14 +56,17 @@ Front-end Developer - Seeking knowledge and opportunities
 <p align="center"><b>My GitHub Stats</b></p>
 
 <div width="100%" align="center">
-<a href="http://www.github.com/renovatt"><img src="https://github-readme-stats.vercel.app/api?username=renovatt&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="renovatt's GitHub stats" /></a>
+ <a href="https://github.com/renovatt">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renovatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<a href="https://github.com/renovatt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatt&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatt&layout=compact&langs_count=7&theme=dark"/>
+
+<!-- <a href="https://github.com/renovatt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatt&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 <a href="http://www.github.com/renovatt"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=renovatt&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </div>
 
-<br/>
+<!-- <br/>
 <h2 align="center"><b>Top Repositories</b></h2>
 <br/>
 
@@ -75,10 +78,10 @@ Front-end Developer - Seeking knowledge and opportunities
 <br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/renovatt/yu-gi-oh-card-info" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=renovatt&repo=yu-gi-oh-card-info&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/renovatt/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=renovatt&repo=portfolio&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
+</div> -->
 
-<br/><br /><br /><br /><br />
-<br/><br /><br /><br /><br />
+<!-- <br/><br /><br /><br /><br /> -->
+<!-- <br/><br /><br /><br /><br /> -->
 
 <div align="center">
   <br>
