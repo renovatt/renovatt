@@ -92,7 +92,3 @@ Front-end Developer - Seeking knowledge and opportunities
     <p><b>visitantes.</b></p> 
   </p> 
 </div>
-
-<br />
- 
-![Snake animation](https://github.com/renovatt/renovatt/blob/output/github-contribution-grid-snake.svg)
