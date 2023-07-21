@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Hello,%20my%20name%20is%20%20Will.&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descAlign=62&)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=230&section=header&text=Hello,%20my%20name%20is%20%20Will.&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descAlign=62&)
 
-#
+# -->
 
 Front-end Developer - Seeking knowledge and opportunities
 
@@ -63,6 +63,9 @@ Front-end Developer - Seeking knowledge and opportunities
   </a>
   <a href="https://www.github.com/renovatt">
     <img src="https://skillicons.dev/icons?i=styledcomponents" />
+  </a>
+  <a href="https://www.github.com/renovatt">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
   <a href="https://www.github.com/renovatt">
     <img src="https://skillicons.dev/icons?i=vite" />
