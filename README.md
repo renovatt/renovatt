@@ -9,18 +9,18 @@ Front-end Developer - Seeking knowledge and opportunities
 * 🚀  I'm currently working on [Personal Projects - Open to Work](http://portfolio-renovatt.vercel.app/)
 * 🧠  I'm learning Node.js, Express and Prisma
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  God give rock 'n' roll to you
+* ⚡  God gave you rock 'n' roll
 
 #
 
-<p align="end">
+<div align="end ">
   <a href="https://www.github.com/renovatt" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/renovatt?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" />
-    </a>
-    <a href="https://www.github.com/renovatt" target="_blank" rel="noreferrer">
-    <img heigth="46px" width="100px" src="https://visitor-badge.laobi.icu/badge?page_id=renovatt.README" />
   </a>
-</p>
+  <a href="https://www.github.com/renovatt" target="_blank" rel="noreferrer">
+    <img heigth="46px" width="120px" src="https://visitor-badge.laobi.icu/badge?page_id=renovatt.README" />
+  </a>
+</div>
 
 <h2 align="center"><b>Skills</b></h2>
 
@@ -78,18 +78,7 @@ Front-end Developer - Seeking knowledge and opportunities
   </a>
 </p>
 
-<h2 align="center"><b>Socials</b></h2>
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/renovatt">
-    <img width="36px" heigth="36px" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-   <a href="https://www.github.com/renovatt">
-    <img width="36px" heigth="36px" src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
-<h2 align="center"><b>My GitHub Stats</b></h2>
+<h2 align="center"><b>GitHub Stats</b></h2>
 
 <div width="100%" align="center">
  <a href="https://github.com/renovatt">
@@ -102,5 +91,16 @@ Front-end Developer - Seeking knowledge and opportunities
 <br/>
 
 <div align="center">
-    <img width="150px" height="150px" src="./img/readme-char.png/"/>
+  <img width="150px" height="150px" src="./img/readme-char.png/"/>
+</div>
+
+#
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/renovatt">
+    <img width="28px" heigth="28px" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://portfolio-renovatt.vercel.app/">
+    <img width="30px" height="30px" src="./img/port.png/"/>
+  </a>
 </div>
