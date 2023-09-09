@@ -25,26 +25,26 @@ Front-end Developer - Seeking knowledge and opportunities
 #
 
 <h2 align="left"><b>Skills</b></h2>
-<code><img src="https://skillicons.dev/icons?i=next" /></code>
-<code><img src="https://skillicons.dev/icons?i=react" /></code>
-<code><img src="https://skillicons.dev/icons?i=ts" /></code>
-<code><img src="https://skillicons.dev/icons?i=js" /></code>  
-<code><img src="https://skillicons.dev/icons?i=nodejs" /></code>
-<code><img src="https://skillicons.dev/icons?i=express" /></code>
-<code><img src="https://skillicons.dev/icons?i=prisma" /></code>
-<code><img src="https://skillicons.dev/icons?i=mongodb" /></code>
-<code><img src="https://skillicons.dev/icons?i=firebase" /></code>
-<code><img src="https://skillicons.dev/icons?i=mysql" /></code>
-<code><img src="https://skillicons.dev/icons?i=html" /></code>
-<code><img src="https://skillicons.dev/icons?i=css" /></code>
-<code><img src="https://skillicons.dev/icons?i=styledcomponents" /></code>
-<code><img src="https://skillicons.dev/icons?i=tailwind" /></code>
-<code><img src="https://skillicons.dev/icons?i=vite" /></code>
-<code><img src="https://skillicons.dev/icons?i=vercel" /></code>
-<code><img src="https://skillicons.dev/icons?i=git" /></code>
-<code><img src="https://skillicons.dev/icons?i=figma" /></code>
-<code><img src="https://skillicons.dev/icons?i=jest" /></code>
-<code><img src="https://skillicons.dev/icons?i=vscode" /></code>
+<a><img src="https://skillicons.dev/icons?i=next" /></a>
+<a><img src="https://skillicons.dev/icons?i=react" /></a>
+<a><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a><img src="https://skillicons.dev/icons?i=js" /></a>  
+<a><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a><img src="https://skillicons.dev/icons?i=express" /></a>
+<a><img src="https://skillicons.dev/icons?i=prisma" /></a>
+<a><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+<a><img src="https://skillicons.dev/icons?i=firebase" /></a>
+<a><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a><img src="https://skillicons.dev/icons?i=html" /></a>
+<a><img src="https://skillicons.dev/icons?i=css" /></a>
+<a><img src="https://skillicons.dev/icons?i=styledcomponents" /></a>
+<a><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a><img src="https://skillicons.dev/icons?i=vite" /></a>
+<a><img src="https://skillicons.dev/icons?i=vercel" /></a>
+<a><img src="https://skillicons.dev/icons?i=git" /></a>
+<a><img src="https://skillicons.dev/icons?i=figma" /></a>
+<a><img src="https://skillicons.dev/icons?i=jest" /></a>
+<a><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 <h2 align="left"><b>GitHub Stats</b></h2>
