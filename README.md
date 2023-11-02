@@ -39,6 +39,7 @@ Front-end Developer - Seeking knowledge and opportunities
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=vite" />
