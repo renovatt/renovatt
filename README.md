@@ -8,9 +8,9 @@ Front-end Developer - Seeking knowledge and opportunities
 * 🌍  I'm based in Paraíba, Brazil
 * ✉️  You can contact me at [wlymes@gmail.com](mailto:wlymes@gmail.com)
 * 🚀  I'm currently working on [Personal Projects - Open to Work](http://portfolio-renovatt.vercel.app/)
-* 🧠  I'm learning Node.js, Express and Prisma
+* 🧠  I'm learning Nest.js
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  God gave you rock 'n' roll
+* ⚡  God gave you rock 'n' roll to you
 </p>
 
 #
@@ -25,7 +25,6 @@ Front-end Developer - Seeking knowledge and opportunities
 #
 
 <h2 align="left"><b>Skills</b></h2>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=next" />
   <img src="https://skillicons.dev/icons?i=react" />
@@ -33,10 +32,11 @@ Front-end Developer - Seeking knowledge and opportunities
   <img src="https://skillicons.dev/icons?i=js" />  
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=nestjs" />
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <!-- <img src="https://skillicons.dev/icons?i=mysql" /> -->
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=sass" />
@@ -54,3 +54,7 @@ Front-end Developer - Seeking knowledge and opportunities
 
 [<img height="165em" src="https://github-readme-stats.vercel.app/api?username=renovatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>](https://github.com/renovatt)
 [<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatt&layout=compact&langs_count=7&theme=dark"/>](https://github.com/renovatt)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amandadecassiaborges&theme=github_dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandadecassiaborges&theme=github_dark) 
