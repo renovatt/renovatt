@@ -55,6 +55,5 @@ Front-end Developer - Seeking knowledge and opportunities
 [<img height="165em" src="https://github-readme-stats.vercel.app/api?username=renovatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>](https://github.com/renovatt)
 [<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatt&layout=compact&langs_count=7&theme=dark"/>](https://github.com/renovatt)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renovatt&theme=github_dark) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renovatt&theme=github_dark) 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renovatt&theme=github_dark)  -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renovatt&theme=github_dark)  -->
