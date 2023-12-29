@@ -18,7 +18,7 @@ Front-end Developer - Seeking knowledge and opportunities
 <div align="left">
   <img width="28px" heigth="28px" src="https://skillicons.dev/icons?i=linkedin" />
   <img width="30px" height="30px" src="./img/port.png/"/>
-  <img src="https://img.shields.io/github/followers/renovatt?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/renovatt?logo=github&style=for-the-badge&color=7f3ace&labelColor=1c1917" />
   <img heigth="46px" width="120px" src="https://visitor-badge.laobi.icu/badge?page_id=renovatt.README" />
 </div>
 
@@ -27,6 +27,7 @@ Front-end Developer - Seeking knowledge and opportunities
 <h2 align="left"><b>Skills</b></h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=next" />
+  <img src="https://skillicons.dev/icons?i=vue" />
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=ts" />
   <img src="https://skillicons.dev/icons?i=js" />  
@@ -36,7 +37,6 @@ Front-end Developer - Seeking knowledge and opportunities
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=firebase" />
-  <!-- <img src="https://skillicons.dev/icons?i=mysql" /> -->
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=sass" />
@@ -52,8 +52,5 @@ Front-end Developer - Seeking knowledge and opportunities
 
 <h2 align="left"><b>GitHub Stats</b></h2>
 
-[<img height="165em" src="https://github-readme-stats.vercel.app/api?username=renovatt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>](https://github.com/renovatt)
-[<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatt&layout=compact&langs_count=7&theme=dark"/>](https://github.com/renovatt)
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renovatt&theme=github_dark)  -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renovatt&theme=github_dark)  -->
+[<img height="165em" src="https://github-readme-stats.vercel.app/api?username=renovatt&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>](https://github.com/renovatt)
+[<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renovatt&layout=compact&langs_count=7&theme=midnight-purple"/>](https://github.com/renovatt)
