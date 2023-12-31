@@ -8,7 +8,7 @@ Front-end Developer - Seeking knowledge and opportunities
 * 🌍  I'm based in Paraíba, Brazil
 * ✉️  You can contact me at [wlymes@gmail.com](mailto:wlymes@gmail.com)
 * 🚀  I'm currently working on [Personal Projects - Open to Work](http://portfolio-renovatt.vercel.app/)
-* 🧠  I'm learning Nest.js
+* 🧠  I'm learning Vue.js | Nest.js
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  God gave you rock 'n' roll to you
 </p>
