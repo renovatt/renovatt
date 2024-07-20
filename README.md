@@ -13,14 +13,33 @@ Front-end Developer - Seeking knowledge and opportunities
 * ⚡  God gave you rock 'n' roll to you
 </p>
 
-#
+<!-- 
+```sh
+const me = {
+  name: 'Will',
+  education: 'Systems Analysis and Development',
+  job: 'Software Developer',
+  skils: [
+    'Next.js',
+    'React.js',
+    'Vue.js 3',
+    'Nuxt.js',
+    'TypeScript',
+  ],
+  contact: [
+    e-mail: 'wlymes@gmail.com',
+    portfolio: 'https://renovatt.dev.br',
+    linkedin: 'https://www.linkedin.com/in/renovatt',
+  ]
+}
+``` -->
 
-<div align="left">
+<!-- <div align="left">
   <img width="28px" heigth="28px" src="https://skillicons.dev/icons?i=linkedin" />
   <img width="30px" height="30px" src="./img/port.png/"/>
   <img src="https://img.shields.io/github/followers/renovatt?logo=github&style=for-the-badge&color=7f3ace&labelColor=1c1917" />
   <img heigth="46px" width="120px" src="https://visitor-badge.laobi.icu/badge?page_id=renovatt.README" />
-</div>
+</div> -->
 
 #
 
